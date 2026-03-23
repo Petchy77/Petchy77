@@ -10,7 +10,7 @@ Senior Full Stack Engineer | AI & IoT Enthusiast
 - 👯 I’m looking to collaborate on : Projects that involve AI implementation.
 - 🤔 I’m looking for help with : Discovering new and efficient AI tools, or finding exciting job opportunities in the AI/IoT field.
 - 💬 Ask me about : New technologies and anything related to Japan!
-```- 🖥️ Check out my resume website at [ใส่ลิงก์เว็บพอร์ตของคุณ].```
+<!-- - 🖥️ Check out my resume website at [ใส่ลิงก์เว็บพอร์ตของคุณ]. -->
 - 📫 How to reach me: petch.natawat@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I follow tech news daily, I love Japan, and I'm a big fan of Nintendo games!
